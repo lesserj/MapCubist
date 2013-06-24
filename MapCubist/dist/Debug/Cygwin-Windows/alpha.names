@@ -1,0 +1,49 @@
+label.
+			| 0 = Undisturbed
+			| 100 = Disturbed
+Xcoord:	ignore.
+Ycoord:	ignore.
+raster1_b1: continuous.
+raster1_b2: continuous.
+raster1_b3: continuous.
+raster1_b4: continuous.
+raster1_b5: continuous.
+raster1_b6: continuous.
+raster1_b7: 0,1,4,16,32,64,128.
+raster2_b1: continuous.
+raster2_b2: continuous.
+raster2_b3: continuous.
+raster2_b4: continuous.
+raster2_b5: continuous.
+raster2_b6: continuous.
+raster2_b7: 0,1,4,16,32,64,128.
+raster3_b1: continuous.
+raster3_b2: continuous.
+raster3_b3: continuous.
+raster3_b4: continuous.
+raster3_b5: continuous.
+raster3_b6: continuous.
+raster3_b7: 0,1,4,16,32,64,128.
+raster4_b1: continuous.
+raster4_b2: continuous.
+raster4_b3: continuous.
+raster4_b4: continuous.
+raster4_b5: continuous.
+raster4_b6: continuous.
+raster4_b7: 0,1,4,16,32,64,128.
+raster5_b1: continuous.
+raster5_b2: continuous.
+raster5_b3: continuous.
+raster5_b4: continuous.
+raster5_b5: continuous.
+raster5_b6: continuous.
+raster5_b7: 0,1,4,16,32,64,128.
+raster6_b1: continuous.
+raster6_b2: continuous.
+raster6_b3: continuous.
+raster6_b4: continuous.
+raster6_b5: continuous.
+raster6_b6: continuous.
+raster6_b7: 0,1,4,16,32,64,128.
+
+label: continuous.
